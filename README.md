@@ -9,5 +9,6 @@
 1. Installed .NET SDK using `brew install --cask dotnet-sdk`
 2. Added the C# extension to Visual Studio Code
 3. Created a Blazor project using `dotnet new blazorwasm -o BlazorApp`
-4. Navigated to the project folder and ran `dotnet run`
-5. Confirmed the app is running on localhost.
+4. Add .gitignore file by running `dotnet new gitignore`
+5. Navigated to the project folder and ran `dotnet run`
+6. Confirmed the app is running on localhost.
